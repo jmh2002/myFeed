@@ -1,0 +1,27 @@
+<repositories>
+
+	<repository>
+      <name>TV Addons</name>
+      <username>tvaddonsco</username>
+      <description></description>
+	</repository>
+   
+	<repository>
+      <name>mrBlamo</name>
+      <username>mrBlamo</username>
+      <description>Death Streams</description>
+	</repository>
+	
+	<repository>
+      <name>kodibae</name>
+      <username>kodibae</username>
+      <description>UWC</description>
+	</repository>
+
+	<repository>
+      <name>spoyser</name>
+      <username>spoyser</username>
+      <description>Super Favourites</description>
+	</repository>
+
+</repositories>
