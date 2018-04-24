@@ -1,61 +1,61 @@
 <repositories>
 
 	<repository>
-      <name>jmh200</name>
+      <name>JMH2002</name>
       <username>jmh2002</username>
       <description>myFeed</description>
 	</repository>
 	
 	<repository>
-      <name>Kodibae</name>
+      <name>KODIBAE</name>
       <username>kodibae</username>
       <description>UWC</description>
 	</repository>
 	
 	<repository>
-      <name>Lunatixz</name>
+      <name>LUNATIXZ</name>
       <username>Lunatixz</username>
       <description>Lunatixz Beta Repo</description>
 	</repository>
 	
 	<repository>
-      <name>Moham96</name>
-      <username>Moham</username>
+      <name>MOHAM</name>
+      <username>Moham96</username>
       <description>Various</description>
 	</repository>
 	
 	<repository>
-      <name>MrBlamo</name>
+      <name>MRBLAMO</name>
       <username>mrBlamo</username>
       <description>Death Streams</description>
 	</repository>
 	
 	<repository>
-      <name>Open Subtitles</name>
+      <name>OPEN SUBTITLES</name>
       <username>opensubitles</username>
       <description>Various</description>
 	</repository>
 	
 	<repository>
-      <name>RobWebSet</name>
+      <name>ROBWEBSET</name>
       <username>robwebset</username>
       <description>Weather Screensaver, Video Screensaver, PIN Sentry</description>
 	</repository>
 
 	<repository>
-      <name>Spoyser</name>
+      <name>SPOYSER</name>
       <username>spoyser</username>
       <description>Super Favourites</description>
 	</repository>
 	
 	<repository>
-      <name>TV Addons</name>
+      <name>TV ADDONS</name>
       <username>tvaddonsco</username>
       <description>Various</description>
 	</repository>
 	
 	<repository>
-      <name>uRepo</name>
+      <name>UREPO</name>
       <username>zag2me</username>
       <description>Various</description>
 	</repository>
