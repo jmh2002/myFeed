@@ -7,6 +7,12 @@
 	</repository>
 	
 	<repository>
+      <name>KODITIPS</name>
+      <username>KodiTips</username>
+      <description>Various</description>
+	</repository>
+	
+	<repository>
       <name>KODIBAE</name>
       <username>kodibae</username>
       <description>UWC</description>
