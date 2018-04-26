@@ -25,6 +25,12 @@
 	</repository>
 	
 	<repository>
+      <name>MERLUX</name>
+      <username>merlux</username>
+      <description>InstaSwitch</description>
+	</repository>
+	
+	<repository>
       <name>MOHAM</name>
       <username>Moham96</username>
       <description>Various</description>
