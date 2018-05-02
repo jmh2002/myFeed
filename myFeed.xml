@@ -13,9 +13,27 @@
 	</repository>
 	
 	<repository>
+      <name>ANXDPANIC</name>
+      <username>anxdpanic</username>
+      <description>Various</description>
+	</repository>
+	
+	<repository>
+      <name>JDF76</name>
+      <username>jdf76</username>
+      <description>YouTube</description>
+	</repository>
+	
+	<repository>
       <name>KODIBAE</name>
       <username>kodibae</username>
       <description>UWC</description>
+	</repository>
+	
+	<repository>
+      <name>LEARNINGIT</name>
+      <username>learningit</username>
+      <description>Various</description>
 	</repository>
 	
 	<repository>
@@ -46,6 +64,12 @@
       <name>OPEN SUBTITLES</name>
       <username>opensubitles</username>
       <description>Various</description>
+	</repository>
+	
+	<repository>
+      <name>PATRICK-KLEIN</name>
+      <username>patrick-klein</username>
+      <description>Library Integration Tool</description>
 	</repository>
 	
 	<repository>
