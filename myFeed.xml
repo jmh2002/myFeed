@@ -51,13 +51,19 @@
 	<repository>
       <name>MOHAM</name>
       <username>Moham96</username>
-      <description>Various</description>
+      <description>Dual Subs Mod</description>
 	</repository>
 	
 	<repository>
       <name>MRBLAMO</name>
       <username>mrBlamo</username>
       <description>Death Streams</description>
+	</repository>
+	
+	<repository>
+      <name>NEMESIS668</name>
+      <username>nemesis668</username>
+      <description>Various</description>
 	</repository>
 	
 	<repository>
