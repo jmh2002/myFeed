@@ -49,6 +49,12 @@
 	</repository>
 	
 	<repository>
+      <name>MILHANO</name>
+      <username>Milhano</username>
+      <description>UWC & Various</description>
+	</repository>
+	
+	<repository>
       <name>MOHAM</name>
       <username>Moham96</username>
       <description>Dual Subs Mod</description>
