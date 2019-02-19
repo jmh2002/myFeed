@@ -23,6 +23,12 @@
       <username>jdf76</username>
       <description>YouTube</description>
 	</repository>
+	
+	<repository>
+      <name>KODIBAE</name>
+      <username>kodibae</username>
+      <description>Exodus & Various</description>
+	</repository>
 		
 	<repository>
       <name>LEARNINGIT</name>
