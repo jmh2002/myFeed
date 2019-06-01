@@ -67,6 +67,12 @@
 	</repository>
 	
 	<repository>
+      <name>OPEN PROJECT</name>
+      <username>a4k-openproject</username>
+      <description>Open Info</description>
+	</repository>	
+	
+	<repository>
       <name>OPEN SUBTITLES</name>
       <username>opensubitles</username>
       <description>Various</description>
