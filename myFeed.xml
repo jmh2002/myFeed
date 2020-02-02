@@ -25,6 +25,12 @@
 	</repository>
 	
 	<repository>
+      <name>JURIALMUNKEY</name>
+      <username>jurialmunkey</username>
+      <description>TMDB Helper</description>
+	</repository>
+	
+	<repository>
       <name>KODIBAE</name>
       <username>kodibae</username>
       <description>Exodus & Various</description>
