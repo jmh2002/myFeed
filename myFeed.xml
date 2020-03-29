@@ -19,6 +19,12 @@
 	</repository>
 	
 	<repository>
+      <name>DRINFERNOO</name>
+      <username>drinfernoo</username>
+      <description>AutoWidget</description>
+	</repository>
+	
+	<repository>
       <name>JDF76</name>
       <username>jdf76</username>
       <description>YouTube</description>
