@@ -71,6 +71,12 @@
       <username>Moham96</username>
       <description>Dual Subs Mod</description>
 	</repository>
+	
+	<repository>
+      <name>MRKODZ2</name>
+      <username>mrkodz2</username>
+      <description>Kodzi Repo Installer</description>
+	</repository>
 		
 	<repository>
       <name>NEMESIS668</name>
@@ -115,6 +121,12 @@
 	</repository>
 	
 	<repository>
+      <name>TEAM-CREW</name>
+      <username>team-crew</username>
+      <description>The Crew</description>
+	</repository>
+	
+	<repository>
       <name>TV ADDONS</name>
       <username>tvaddonsco</username>
       <description>Various</description>
@@ -130,6 +142,12 @@
       <name>UREPO</name>
       <username>zag2me</username>
       <description>Various</description>
+	</repository>
+	
+	<repository>
+      <name>VENOM</name>
+      <username>123Venom</username>
+      <description>Venom</description>
 	</repository>
 	
 </repositories>
